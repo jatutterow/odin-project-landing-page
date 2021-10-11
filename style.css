@@ -96,3 +96,27 @@ a{
     color: #1F2937;
     margin-top: 2px;
 }
+
+.quote{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 96px 256px;
+    background-color: #E5E7Eb;
+}
+
+.quote p{
+    margin: 0;
+}
+
+.quote .quote-text{
+    font-size: 36px;
+    font-weight: 300;
+    color: #1f2937;
+}
+
+.quote .attribution{
+    align-self: flex-end;
+    font-weight: 800;
+}
