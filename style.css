@@ -160,3 +160,10 @@ a{
     flex: 0 1 auto;
     padding: 4px 24px;
 }
+
+.footer{
+    color: #f9faf8;
+    background-color: #1F2937;
+    text-align: center;
+    padding: 20px;
+}
